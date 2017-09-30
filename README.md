@@ -10,16 +10,26 @@ generally combined with a parser, which together analyze the syntax of programmi
 * Constants
 * Comments
 
+
 ### Tools and technology used
 
 * Programming Language : Java
 * Development IDE : Netbeans IDE
 The ability of the IDE to link the back-end java code to the graphical user interface was exploited.
 
+### Input
+
+  A python program in a .py file.
+  
+  
 ### Run
  ```
  javac lexicalAnalysis.java
- ```
- ```
  java lexicalAnalysis
  ```
+
+### Output
+
+A python program categorized into the respective token categories.
+
+
