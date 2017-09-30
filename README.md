@@ -1,4 +1,4 @@
-# Python-lexer
+# Pylex
 
 ### About
 
