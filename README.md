@@ -8,6 +8,7 @@ In this implementaion, a python lexer has been simulated, which takes python fil
 * Operators
 * Constants
 * Comments
+
 To know more about lexical analysis, visit this [link](https://en.wikipedia.org/wiki/Lexical_analysis)
 
 
