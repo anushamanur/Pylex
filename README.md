@@ -9,3 +9,17 @@ generally combined with a parser, which together analyze the syntax of programmi
 * Operators
 * Constants
 * Comments
+
+### Tools and technology used
+
+* Programming Language : Java
+* Development IDE : Netbeans IDE
+The ability of the IDE to link the back-end java code to the graphical user interface was exploited.
+
+### Run
+ ```
+ javac lexicalAnalysis.java
+ ```
+ ```
+ java lexicalAnalysis
+ ```
