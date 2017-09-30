@@ -20,7 +20,7 @@ The ability of the IDE to link the back-end java code to the graphical user inte
 ### Input
 
   A python program in a .py file.
-  ![Alt text](/home/ashray/Desktop/q2.png?raw=true "File content")
+  ![Alt text](/fileContent.png?raw=true "File content")
   
   
 ### Run
@@ -32,7 +32,7 @@ The ability of the IDE to link the back-end java code to the graphical user inte
 ### Output
 
 A python program categorized into the respective token categories.
-![Alt text](/home/ashray/Desktop/a1.png?raw=true "File content")
+![Alt text](/sampleOutput.png?raw=true "FOutput")
 
 
 
