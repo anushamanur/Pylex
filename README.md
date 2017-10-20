@@ -2,7 +2,7 @@
 
 ### About
 
-In this implementaion, a python lexer has been simulated, which takes python files as input and the breaks down the code into tokens. The tokens are then classified into pinto one of the following categories: 
+In this implementaion, a python lexer has been simulated, which takes python files as input and the breaks down the code into tokens. The tokens are then classified into one of the following categories: 
 * Keywords
 * Identifiers
 * Operators
